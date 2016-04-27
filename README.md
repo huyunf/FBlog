@@ -5,3 +5,5 @@ git clone git@github.com:huyunf/FBlog.git
 git remote -v
 
 git push -u origin master
+
+add something from Laptop
