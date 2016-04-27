@@ -1,6 +1,6 @@
 # FBlog
 
-git clone git@github.com:michaelliao/gitskills.git
+git clone git@github.com:huyunf/FBlog.git
 
 git remote -v
 
