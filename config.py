@@ -9,4 +9,6 @@ class Config:
     FLASKY_MAIL_SENDER = 'Flasky Admin <yfhu.dev@hotmail.com>'
     FLASKY_ADMIN = os.envrion.get('FLASKY_ADMIN')
     
-
+    @staticmethod
+    def init_app(app):
+        pass
